@@ -53,5 +53,10 @@
         font-size: 1.1em;
         margin: 20px 0px;
     }
+
+    div.campo > input {
+        width: calc(100% - 45px);
+        transform: translateY(-13px);
+    }
     
 }
